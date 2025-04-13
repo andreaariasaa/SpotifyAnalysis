@@ -1,0 +1,101 @@
+#,Song,Artist,Popularity,BPM,Genres,Album,Album Date,Time,Dance,Energy,Acoustic,Instrumental,Happy,Speech,Live,Loud (Db),Key,Time Signature,Added At,Spotify Track Id,Camelot,ISRC
+1,"Sing, Sing, Sing","John Williams,Boston Pops Orchestra",17,115,"soundtrack, orchestra","Swing, Swing, Swing",1985-00-00,03:59,42,72,68,60,10,0,0,-16,F Major,4,2024-02-10,07GTP0m6rTaClLJWWNkADG,7B,NLA508400407
+2,"Run Llama Run - From  The Emperor's New Groove /Score","John Debney",37,110,"","The Emperor's New Groove (Original Motion Picture Soundtrack)",2000-11-14,02:24,65,45,9,63,75,0,0,-12,C♯/D♭ Major,4,2024-02-09,0is3TXic9WVC1IONbQnl9b,3B,USWD10321961
+3,"Lipstick Lover","Janelle Monáe",41,170,"alternative r&b","The Age of Pleasure",2023-06-08,02:49,59,43,31,0,66,10,20,-8,F#/G♭ Minor,4,2024-02-09,5c2jJgsGsnYWB6QdkK1ycR,11A,USAT22306295
+4,"Birdland","Maynard Ferguson",41,167,"big band, jazz","Carnival",1978-11-09,05:38,62,69,1,85,89,0,0,-13,F Major,4,2024-02-09,5riSr1LFW4Bv7JzMNwIc9C,7B,USSM10202123
+5,"Quizás, Quizás, Quizás","Celia Cruz",49,110,"salsa, son cubano, bolero, cha cha cha, merengue, mambo, latin, latin dance","Boleros",1993-11-02,02:30,63,33,88,0,81,0,10,-11,A Minor,4,2024-02-09,7FES7rrRiopj1YLqIUyyGO,8A,US78T0504193
+6,"Jump in the Line","Harry Belafonte",67,116,"calypso","Jump Up Calypso",1961-07-21,03:41,59,89,77,0,80,20,10,-8,F Major,4,2024-02-09,1zW2csx1vVJrKfvDrFQNVt,7B,USRC16607550
+7,"In the Mood","Glenn Miller",50,81,"big band, swing music, jazz","Ultimate Big Band Collection: Glenn Miller",1939-00-00,03:36,62,30,93,17,87,0,0,-14,G#/A♭ Major,4,2024-02-09,1xsY8IFXUrxeet1Fcmk4oC,4B,USBB10200858
+8,"Sir Duke","Stevie Wonder",74,107,"motown, soul","Songs In The Key Of Life",1976-09-28,03:52,59,57,16,0,95,0,0,-10,F#/G♭ Major,4,2024-02-09,4pNiE4LCVV74vfIBaUHm1b,2B,USMO17600526
+9,"Float (feat. Seun Kuti & Egypt 80)","Janelle Monáe,Seun Kuti,Egypt 80",43,126,"alternative r&b, afrobeat, latin afrobeat","Float (feat. Seun Kuti & Egypt 80)",2023-02-16,04:02,78,50,21,0,34,10,80,-5,F Minor,4,2024-02-09,2JIY6nN5kkkfNz0TckPqYu,4A,USAT22222009
+10,"Hold The Line","Musikkapelle Brixen im Thale & Milestone",19,150,"","Blasmusik Goes Rock",2014-07-25,03:21,62,84,45,0,93,0,0,-5,F Minor,3,2024-02-09,3QRYALJbCY9kQN3U4j9lru,4A,ATT251406830
+11,"Sweet Caroline","Mambo Beach Band",0,173,"","Pimp It Up",2016-12-14,02:11,52,70,77,91,87,0,80,-9,G#/A♭ Major,4,2024-02-09,1E1nJe2xVqs10nkrxC9TRP,4B,NLD710601040
+12,"It Don't Mean a Thing","Tim Zimmerman and the King's Brass",0,116,"big band","American Mood",2009-11-10,03:43,80,37,84,92,42,0,10,-11,G Minor,4,2024-02-09,5EomW32WnNLX2bdY3HrMq2,6A,US9930910434
+13,"Flight of the Foo Birds","Count Basie",41,96,"big band, swing music, jazz","The Atomic Mr Basie",1958-00-00,03:24,62,54,66,6,81,0,20,-9,C Major,4,2024-02-09,2MZBVXviBSBenB8AnmsMXi,8B,GBAYE5800366
+14,"We Were Rock and Roll","Janelle Monáe",32,130,"alternative r&b","The Electric Lady",2013-09-06,04:19,65,77,1,0,80,0,10,-9,A#/B♭ Minor,4,2024-02-10,4BDb93hwHyVwWbci7CzeDE,3A,USBB41300009
+15,"Full Heart Fancy","Lucky Chops",40,110,"","Lucky Chops",2019-09-27,03:55,62,85,3,91,55,0,50,-5,G Minor,4,2024-02-09,5l4wigVYb1alfIkW7HVc1R,6A,USA2P1931325
+16,"Bourbon Street Parade","The Dukes Of Dixieland",28,121,"ragtime, swing music","New Orleans Jazz Collection - French Quarter Favorites",2012-11-08,02:34,70,44,63,0,90,0,20,-12,C Minor,4,2024-02-09,4QbweORkjDpipFhhLdEnYR,5A,USA561410936
+17,"Take It To The Street","Rebirth Brass Band",24,114,"","Take It To The Street",1992-01-01,04:19,60,57,13,0,65,20,10,-15,F Minor,4,2024-02-09,7mGRGpeaHqgQ7xZrYOdCro,4A,USRO29221151
+18,"My Feet Can't Fail Me Now","Dirty Dozen Brass Band",33,128,"","Our New Orleans (Expanded Edition)",2005-12-06,04:38,72,73,34,15,82,10,10,-9,C♯/D♭ Major,4,2024-02-10,5EvUkN9QWfDbSLE4Ybfs0u,3B,USNO12000259
+19,"Halftime: Stand Up & Get Up","The Soul Rebels",31,120,"","Nothing But Love - EP",2010-11-10,03:50,84,40,20,1,68,10,10,-13,G Major,4,2024-02-10,59piNvROKkBAdsot8cjz72,9B,US3U51080031
+20,"Lollipop","MIKA",60,96,"","Life In Cartoon Motion",2006-01-01,03:03,71,62,4,0,89,0,10,-5,C♯/D♭ Major,4,2024-02-10,2NjhV99ncY4A5lSkTHvTtU,3B,USC7R0600045
+21,"Killing Me","Honey Island Swamp Band",4,133,"","Wishing Well",2009-01-01,02:52,66,82,28,0,89,0,0,-5,A Major,4,2024-02-10,4s4NdNUdus4zWH0nnJsFim,11B,us3wz0900004
+22,"Two Fingers In The Air","Sean Ardoin,ZydeKool",11,78,"","Pullin'",2001-00-00,02:58,63,81,2,0,91,20,0,-8,C Major,4,2024-02-10,6zx5xycC10qghRb5p0XJS7,8B,UST1R0100509
+23,"Bang Bang","Dizzy Gillespie",40,135,"bebop, jazz, hard bop, latin jazz, big band, cool jazz","Talkin' Verve",1997-05-23,03:03,79,53,64,0,63,0,0,-11,D#/E♭ Major,4,2024-02-10,211mkZYf9YaQhlev1Vze5F,5B,USPR36660027
+24,"Make Me Feel","Janelle Monáe",61,115,"alternative r&b","Dirty Computer",2018-04-27,03:14,86,41,13,0,70,10,30,-7,C♯/D♭ Major,4,2024-02-10,5gW5dSy3vXJxgzma4rQuzH,3B,USAT21800745
+25,"Everybody Needs Somebody to Love","The Blues Brothers",62,194,"blues, blues rock","The Blues Brothers Original Motion Picture Soundtrack",1980-00-00,03:23,49,93,61,0,92,0,30,-4,F Major,4,2024-02-10,1CtKHwDqsH3ctcCCI18N0g,7B,USAT29200092
+26,"I Gotta Woman - Bonus Track","Dejan's Olympia Brass Band",18,107,"","Here Come da Great Olympia Band",2009-10-19,06:25,63,63,31,0,81,0,20,-8,C Minor,4,2024-02-10,5k6egEOSbEBGzqCftoeH1J,5A,USRX10517010
+27,"Kreyol","Preservation Hall Jazz Band",35,92,"swing music, ragtime, jazz","A Tuba to Cuba",2019-06-28,03:43,88,76,59,82,71,20,0,-6,C Minor,4,2024-02-10,5wAeCI3UlhKvs0RSJKQd9l,5A,USSUB1931008
+28,"Traveler","Lucky Chops",25,172,"","Lucky Chops",2019-09-27,03:16,34,90,0,40,44,0,10,-5,F Minor,4,2024-02-10,61dHUNaMqK3pXuDvLfL4YP,4A,USA2P1931323
+29,"Karate (feat. KIPP Renaissance High School Marching Band)","Galactic,KIPP Renaissance High School Marching Band",0,106,"jazz funk, funk rock, acid jazz, ","Carnivale Electricos",2012-02-21,03:34,69,83,13,93,83,0,10,-4,F Major,4,2024-02-10,2UsH4hOstNUCkIWKDn8eiz,7B,USEP41108021
+30,"Dance Apocalyptic","Janelle Monáe",41,206,"alternative r&b","The Electric Lady",2013-09-06,03:25,58,78,26,0,65,20,20,-8,C Major,4,2024-02-10,3dUMuxNadGxCE3qXuhCwqa,8B,USBB41300016
+31,"I Got You (I Feel Good)","James Brown",0,144,"soul, funk, motown","Get On Up - The James Brown Story (Original Motion Picture Soundtrack)",2014-07-29,02:47,56,59,41,0,75,10,10,-7,G Major,4,2024-02-10,6yqThFsiJG2jUEA6jdhruE,9B,USF066500010
+32,"Doctor Jazz","Jelly Roll Morton",25,200,"ragtime, jazz, swing music","Doctor Jazz",1994-00-00,03:28,49,41,98,65,92,0,10,-10,G#/A♭ Minor,4,2024-02-10,5LHzQRQpnxXeKMn3pmusSK,1A,USEWJ1092095
+33,"Carnival Time","Rebirth Brass Band",22,103,"","Ultimate Rebirth Brass Band",2008-02-25,03:46,68,74,47,36,92,0,0,-11,D#/E♭ Major,4,2024-02-10,7MIooWcuboKjxwNa7YpJRp,5B,US3U50400222
+34,"Joshua Fit De Battle of Jericho","Sidney Bechet",39,180,"jazz, swing music, ragtime","Runnin' Wild",1998-01-01,03:21,54,35,72,84,96,0,10,-13,C Minor,4,2024-02-10,6mhzK4YvxzG2MQseaazRGt,5A,USBN29800432
+35,"Once In A While","Norbert Susemihl,Jason Marsalis,Erika Lewis,Shaye Cohn",31,104,"swing music, ragtime, americana","Night on Frenchmen Street",2012-01-01,04:31,69,43,78,80,85,0,10,-15,C Major,4,2024-02-10,1LnuXqYUH6jIWSIVyTMF9c,8B,GBSMU1109085
+36,"Boogie Shoes","KC & The Sunshine Band",53,120,"disco","KC & the Sunshine Band... and More",1994-12-13,02:12,93,77,45,19,97,0,0,-12,E Major,4,2024-02-10,2Nc1Tl1qHWLAtBnqRJmkP3,12B,USRH10175349
+37,"Signed, Sealed, Delivered (I'm Yours)","Stevie Wonder",0,109,"motown, soul","Signed, Sealed And Delivered",1970-08-01,02:41,67,60,5,0,87,0,0,-11,F Major,4,2024-02-10,4CB13d6Igb94cWMOQWY3JF,7B,FRZ029400710
+38,"The Second Line","Stop, Inc",39,159,"","Ultimate Mardi Gras",2008-02-26,03:28,64,37,22,47,93,10,0,-12,A#/B♭ Major,4,2024-02-10,5YizW243gThmie7RaxwL7N,6B,US3U50400156
+39,"Move","Santana,Rob Thomas,American Authors",0,120,"","Move",2021-08-18,02:45,59,83,1,0,77,0,10,-3,F#/G♭ Minor,4,2024-02-10,46UPxQScuRtw2jvE23vuYJ,11A,QMRSZ2101892
+40,"Bourbon Street Parade","New Orleans Heartbreakers,Big Al Carson",4,101,"","Putumayo Presents New Orleans Party",2018-05-25,05:30,63,73,61,3,71,10,0,-9,G#/A♭ Major,4,2024-02-10,7LnbyelubIfh8d2YiLWP6J,4B,US6QR1700045
+41,"Mardi Gras In New Orleans","Olympia Brass Band",27,94,"","Ultimate Mardi Gras",2008-02-26,03:21,55,74,38,0,84,0,10,-7,A#/B♭ Major,4,2024-02-10,0QR95uiVATqSNRqu9PN3Hc,6B,US3U50400162
+42,"Treme Mardi Gras","Kermit Ruffins",0,106,"","Rough Guide To New Orleans",2012-04-03,05:07,68,53,16,0,75,10,10,-12,G#/A♭ Minor,4,2024-02-10,4rmbBgHQqRGWHWBwhuIWoY,1A,GBDTM1227206
+43,"25 or 6 to 4 - 2002 Remaster","Chicago",65,147,"soft rock","Chicago II",1970-01-26,04:49,60,91,31,6,72,0,0,-7,E Minor,4,2024-02-10,7GqIDx2QVGOpd4r1fZaUUW,9A,USRH10285518
+44,"Carnival Time","Al Johnson",34,96,"","The Complete Ric & Ron Recordings, Vol. 2: Classic New Orleans R&B And More, 1958-1965",2012-01-01,02:40,55,76,27,0,96,0,10,-5,F Major,4,2024-02-10,0MwjzbvJgJgaP2Moq64NHz,7B,USRO21221707
+45,"Feeling Good","Nina Simone",76,82,"vocal jazz, jazz blues, soul, soul jazz, jazz, blues","I Put A Spell On You",1965-06-01,02:54,45,33,86,0,55,0,10,-9,G Minor,4,2024-02-10,6Rqn2GFlmvmV4w9Ala0I1e,6A,USPR36500094
+46,"Iko Iko","The Dixie Cups",0,100,"doo-wop","Chapel of Love",1964-00-00,02:02,92,49,41,0,96,10,0,-14,A Minor,4,2024-02-10,2xZPpUIcajScKX99PH0fD9,8A,USSE60014094
+47,"Proud Mary","Tina Turner",69,171,"","What's Love Got to Do with It?",1993-00-00,05:27,40,50,8,0,37,0,10,-11,D Major,4,2024-02-09,6gJdDnF2TzfA1WPMXuCa3x,10B,GBAYE9300862
+48,"Hallelujah","Panic! At The Disco",57,80,"emo","Death of a Bachelor",2016-01-15,03:00,58,89,1,0,62,0,10,-4,B Major,4,2024-02-09,6TzJLISIitIzn1WtjDY0Op,1B,USAT21501131
+49,"My Type","Saint Motel",70,118,"","My Type EP",2014-08-16,03:24,60,90,6,0,57,0,0,-3,A#/B♭ Major,4,2024-02-10,2Iq6HhIquO7JKr0KfTNLzU,6B,GBAYE1400856
+50,"September","Earth, Wind & Fire",5,126,"disco, funk","The Eternal Dance",1992-09-08,03:34,70,81,11,0,98,0,10,-8,A Major,4,2024-02-09,5nNmj1cLH3r4aA4XDJ2bgY,11B,USSM17800253
+51,"Yoga","Janelle Monáe,Jidenna",51,130,"alternative r&b, ","Yoga",2015-03-31,03:37,74,55,2,0,38,0,20,-6,G Minor,4,2024-02-10,3IJCSQoLF4YzPAKaxq2JLb,6A,USSM11501402
+52,"I Like It","Cardi B,Bad Bunny,J Balvin",78,136,"reggaeton, trap latino, latin, urbano latino","Invasion of Privacy",2018-04-06,04:13,82,73,10,0,65,10,30,-4,F Minor,4,2024-02-09,58q2HKrzhC3ozto2nDdN4z,4A,USAT21801431
+53,"Crazy In Love (feat. JAY-Z)","Beyoncé,JAY-Z",81,99,"hip hop, east coast hip hop, rap","Dangerously In Love",2003-06-24,03:56,65,77,0,0,68,20,0,-7,D Minor,4,2024-02-09,5IVuqXILoxVWvWEPm82Jxr,7A,USSM10305425
+54,"Havana (feat. Young Thug)","Camila Cabello,Young Thug",83,105,"rap, melodic rap, trap","Camila",2018-01-12,03:37,77,52,18,0,39,0,10,-4,D Major,4,2024-02-09,1rfofaqEpACxVEHIZBJe6W,10B,USSM11706905
+55,"High Hopes","Panic! At The Disco",81,82,"emo","Pray for the Wicked",2018-06-22,03:10,58,90,19,0,68,0,0,-3,F Major,4,2024-02-09,1rqqCSm0Qe4I9rUvWncaom,7B,USAT21801174
+56,"Karaoke (feat. Lizzo)","Big Freedia,Lizzo",46,104,"bounce, ballroom vogue, ","3rd Ward Bounce",2018-06-01,03:05,74,97,4,0,50,10,40,-1,D Major,4,2024-02-10,4nefFqiukTvjgt8hkv73PP,10B,US39N1800059
+57,"Mi Gente (feat. Beyoncé)","J Balvin,Willy William,Beyoncé",56,105,"reggaeton, latin, ","Mi Gente (feat. Beyoncé)",2017-09-28,03:29,76,72,2,0,47,0,20,-6,B Minor,4,2024-02-10,0GzmMQizDeA2NVMUaZksv0,10A,FR22F1702140
+58,"INDUSTRY BABY (feat. Jack Harlow)","Lil Nas X,Jack Harlow",76,150,"","INDUSTRY BABY (feat. Jack Harlow)",2021-07-23,03:32,74,70,2,0,89,0,0,-7,D#/E♭ Minor,4,2024-02-09,27NovPIUIRrOZoCHxABJwK,2A,USSM12104539
+59,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)","DJ Snake,Selena Gomez,Ozuna,Cardi B",73,96,"pop, reggaeton, trap latino, latin, urbano latino, ","Taki Taki (with Selena Gomez, Ozuna & Cardi B)",2018-09-28,03:32,84,80,16,0,62,20,0,-4,G#/A♭ Minor,4,2024-02-10,4w8niZpiMy6qz1mntFA5uM,1A,USUG11801723
+60,"Low (feat. T-Pain)","Flo Rida,T-Pain",84,128,"","Mail on Sunday",2008-03-17,03:51,92,61,9,0,30,0,10,-6,A#/B♭ Minor,4,2024-02-10,0CAfXk7DXMnon4gLudAp7J,3A,USAT20705841
+61,"Bitch Better Have My Money","Rihanna",76,103,"","Bitch Better Have My Money",2015-03-26,03:39,78,73,5,0,40,0,20,-5,C♯/D♭ Major,4,2024-02-10,0NTMtAO2BV4tnGvw9EgBVq,3B,QM5FT1500006
+62,"Hips Don't Lie (feat. Wyclef Jean)","Shakira,Wyclef Jean",87,100,"latin pop, latin, ","Oral Fixation, Vol. 2 (Expanded Edition)",2005-11-28,03:38,78,82,28,0,76,0,40,-6,A#/B♭ Minor,4,2024-02-10,3ZFTkvIE7kyPt6Nu3PEa7V,3A,USSM10600677
+63,"Gasolina","Daddy Yankee",57,96,"reggaeton, latin","Barrio Fino (Bonus Track Version)",2004-07-13,03:12,85,80,32,0,74,0,0,-7,C Major,4,2024-02-10,228BxWXUYQPJrJYHDLOHkj,8B,QM6N21759342
+64,"Telephone","Lady Gaga,Beyoncé",80,122,"art pop, pop, ","The Fame Monster (Deluxe Edition)",2009-08-05,03:40,83,83,1,0,71,0,10,-6,F Minor,4,2024-02-10,7rl7ao5pb9BhvAzPdWStxi,4A,USUM70905541
+65,"Pepas","Farruko",80,130,"reggaeton, trap latino, latin","Pepas",2021-06-24,04:47,76,77,1,0,44,0,10,-4,G Major,4,2024-02-10,5fwSHlTEWpluwOM0Sxnh5k,9B,USSD12100307
+66,"Talk Dirty (feat. 2 Chainz)","Jason Derulo,2 Chainz",70,100,"southern hip hop, rap","Talk Dirty",2013-09-10,02:57,76,65,3,0,76,20,30,-7,F#/G♭ Major,4,2024-02-10,6g6A7qNhTfUgOSH7ROOxTD,2B,USWB11302648
+67,"TiK ToK","Kesha",86,120,"","Animal (Expanded Edition)",2010-01-01,03:19,76,84,10,0,71,10,20,-3,D Minor,4,2024-02-10,0HPD5WQqrq7wPWR7P7Dw1i,7A,USRC10900433
+68,"Right Round","Flo Rida,Kesha",82,125,"","R.O.O.T.S. (Route of Overcoming the Struggle)",2009-03-23,03:24,72,67,1,0,71,0,20,-7,G Major,4,2024-02-10,3GpbwCm3YxiWDvy29Uo3vP,9B,USAT20900156
+69,"Toxic","Britney Spears",85,143,"pop","In The Zone",2003-11-13,03:18,77,84,2,3,92,10,20,-4,F Minor,4,2024-02-10,6I9VzXrHxO9rA9A5euc8Ak,4A,USJI10301005
+70,"SUBEME LA RADIO","Enrique Iglesias,Descemer Bueno,Zion & Lennox",71,91,"latin pop, latin, reggaeton","SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",2017-02-24,03:27,69,82,6,0,66,0,20,-3,C Major,4,2024-02-10,7nKBxz47S9SD79N086fuhn,8B,USRC11700058
+71,"Timber","Pitbull,Kesha",86,130,"","Global Warming: Meltdown (Deluxe Version)",2012-00-00,03:24,58,96,3,0,79,10,10,-4,B Major,4,2024-02-10,3cHyrEgdyYRjgJKSOiOtcS,1B,USRC11301695
+72,"Juice","Lizzo",69,120,"","Cuz I Love You",2019-04-19,03:15,77,89,1,0,84,10,40,-3,G Major,4,2024-02-10,0k664IuFwVP557Gnx7RhIl,9B,USAT21813044
+73,"Suavemente","Elvis Crespo",66,124,"merengue, latin dance, salsa, latin","Suavemente...Los Exitos",2008-10-14,04:26,81,88,24,0,92,0,0,-3,G#/A♭ Major,4,2024-02-10,1YwPNemawMgGe6sF4U0FTE,4B,USSD19700576
+74,"Bottoms Up (feat. Nicki Minaj)","Trey Songz,Nicki Minaj",4,74,"r&b, ","Passion, Pain & Pleasure",2010-09-13,04:02,85,60,2,0,33,10,30,-5,C♯/D♭ Major,4,2024-02-10,2IpGdrWvIZipmaxo1YRxw5,3B,USAT21001515
+75,"Get Me Bodied","Beyoncé",53,97,"","B'Day",2006-09-04,03:25,87,83,7,0,65,30,20,-7,C Minor,4,2024-02-10,6fmeXejj4CNkAQ78yao7oE,5A,USSM10603610
+76,"Bailando - Spanish Version","Enrique Iglesias,Descemer Bueno,Gente De Zona",66,91,"latin pop, latin, latin dance","SEX AND LOVE (Deluxe)",2014-03-17,04:03,72,78,4,0,96,10,0,-4,G Major,4,2024-02-10,32lm3769IRfcnrQV11LO4E,9B,GBUM71400955
+77,"Hot In Herre","Nelly",78,107,"","Nellyville",2002-06-25,03:48,96,74,20,0,91,10,0,-5,B Minor,4,2024-02-10,04KTF78FFg8sOHC1BADqbY,10A,USUR10200371
+78,"Careless Whisper","George Michael",21,153,"","Ladies And Gentlemen... The Best Of George Michael",1998-11-09,05:00,57,63,13,0,80,0,20,-9,D Minor,4,2024-02-10,4jDmJ51x1o9NZB5Nxxc7gY,7A,GBBBM8402006
+79,"Q.U.E.E.N. (feat. Erykah Badu)","Janelle Monáe,Erykah Badu",47,106,"alternative r&b, neo soul, r&b","The Electric Lady",2013-09-06,05:10,84,43,1,0,16,0,10,-8,C Major,4,2024-02-10,3HW030T8eqPs8wpsgZqCGM,8B,USBB41300014
+80,"Work It","Missy Elliott",71,102,"hip hop","Under Construction",2002-11-12,04:23,88,68,8,0,58,20,0,-6,C♯/D♭ Major,4,2024-02-10,3jagJCUbdqhDSPuxP8cAqF,3B,USEE10240730
+81,"Judas","Big Freedia",24,130,"bounce, ballroom vogue","Judas",2021-05-28,04:07,64,86,1,0,36,0,30,-4,C Minor,4,2024-02-10,3y9z8ShoJTFEkb0Yjz2x49,5A,USUM72108961
+82,"Water Slide","Janelle Monáe",43,150,"alternative r&b","The Age of Pleasure",2023-06-09,02:44,73,55,44,0,22,0,30,-5,G Minor,4,2024-02-10,3PlQ7nKvyX9Da10AsYBm7c,6A,USAT22305097
+83,"Modern Love - Single Version [Remastered]","David Bowie",0,92,"glam rock, art rock","Legacy (Deluxe Edition)",2016-11-11,03:57,47,89,0,0,95,0,0,-9,C Major,4,2024-02-10,0IzwEXmCbVDvB6hEzDaSwG,8B,USJT11400018
+84,"Rumors (feat. Cardi B)","Lizzo,Cardi B",63,119,"","Rumors (feat. Cardi B)",2021-08-13,02:52,83,73,13,0,61,0,40,-6,E Minor,4,2024-02-10,6KgtcmCF9Ky68XC7ezxl3s,9A,USAT22104137
+85,"Champagne Shit","Janelle Monáe",49,119,"alternative r&b","The Age of Pleasure",2023-06-09,02:23,75,61,33,0,64,0,50,-5,F Major,4,2024-02-10,5OhG7shUD0xgQMirbRAipe,7B,USAT22305090
+86,"La Bamba - Single Version","Ritchie Valens",67,75,"doo-wop, rock and roll","Ritchie Valens",1959-00-00,02:06,52,81,79,0,94,0,30,-6,C Major,4,2024-02-10,2aEeghgUcnu75tzcolFMfs,8B,USRH10402003
+87,"Tightrope (feat. Big Boi) - Big Boi Vocal Edit","Janelle Monáe,Big Boi",52,168,"alternative r&b, southern hip hop","The ArchAndroid",2010-05-17,04:22,64,67,3,0,64,0,20,-11,F Minor,4,2024-02-10,1ljzHUgt2SU2ADkhfa9eBC,4A,USBB41000024
+88,"El Niño (feat. Lil Wayne & Boyfriend)","Big Freedia,Lil Wayne,Boyfriend",19,150,"bounce, ballroom vogue, rap, hip hop, ","Central City",2023-06-23,03:05,66,78,17,0,41,0,10,-4,G Minor,4,2024-02-10,2KklqeqUSAY35G0SIYIzvy,6A,US39N2305402
+89,"Mo' Momo!","Lucky Chops",34,140,"","Lucky Chops",2019-09-27,05:15,48,68,0,9,24,0,30,-6,C Major,4,2024-02-10,59M05MYZ4uUvl3JHGMOtZk,8B,USA2P1931331
+90,"3rd Ward Bounce (feat. Erica Falls)","Big Freedia,Erica Falls",25,100,"bounce, ballroom vogue, ","3rd Ward Bounce",2018-06-01,05:48,73,97,4,0,58,10,80,-1,G Major,4,2024-02-10,7IlJD8Fm3ry7hqjBC74cV8,9B,US39N1800060
+91,"Haute","Janelle Monáe",46,119,"alternative r&b","The Age of Pleasure",2023-06-09,01:36,80,63,54,0,49,0,20,-5,B Major,4,2024-02-10,1C9Ws8tfcCcdLk06buoiSU,1B,USAT22305093
+92,"Back That Azz Up","JUVENILE,Lil Wayne,Mannie Fresh",55,192,"southern hip hop, crunk, bounce, rap, hip hop","Greatest Hits",2004-01-01,04:25,75,82,3,0,53,20,10,-3,D Minor,4,2024-02-10,525yPO8r5J6kLostDxm3XK,7A,USCM50200150
+93,"Formation","Beyoncé",70,122,"","Lemonade",2016-04-23,03:26,90,62,1,0,82,20,20,-7,F Minor,4,2024-02-10,6g0Orsxv6glTJCt4cHsRsQ,4A,USSM11603186
+94,"Louder (feat. Icona Pop)","Big Freedia,Icona Pop",33,100,"bounce, ballroom vogue, ","Louder (feat. Icona Pop)",2019-11-20,03:24,76,96,4,0,52,0,30,-3,D Major,4,2024-02-10,2fhtmxAUyNd9vyLq1vk2eD,10B,US39N1900224
+95,"Phenomenal (feat. Doechii)","Janelle Monáe,Doechii",55,119,"alternative r&b, ","The Age of Pleasure",2023-06-09,03:37,85,63,23,0,73,10,20,-8,G#/A♭ Minor,4,2024-02-10,5iDrSIUAbuajDctFTGRRiR,1A,USAT22305092
+96,"All I Do Is Win - Feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross","DJ Khaled",4,150,"","All I Do Is Win (Feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",2010-02-09,03:50,55,78,1,0,32,20,30,-4,C Major,4,2024-02-10,0RIHDrcRAXtUlnkvTYPW1a,8B,USKO11000189
+97,"Bill Gates","Lil Wayne",56,91,"rap, hip hop","I Am Not A Human Being",2010-01-01,04:18,56,80,28,0,66,20,10,-5,G Major,5,2024-02-10,610FzmkhFSsORpECZbjT4X,9B,USCM51000579
+98,"Party Up","DMX",0,203,"east coast hip hop, hardcore hip hop","The Definition of X: Pick Of The Litter (Explicit Version)",2007-06-16,04:32,49,95,8,0,60,30,10,-2,B Major,4,2024-02-10,1afvj3F24pPABgXenbjmdQ,1B,USDJ29905352
+99,"Voodoo Magic (feat. The Soul Rebels)","Big Freedia,The Soul Rebels",11,176,"bounce, ballroom vogue, ","Central City",2023-06-23,02:43,68,95,0,0,79,0,0,-4,A#/B♭ Minor,4,2024-02-10,2OnnDvhDbRTX82Gu0dWkDM,3A,US39N2305412
+100,"Americans","Janelle Monáe",38,100,"alternative r&b","Dirty Computer",2018-04-27,04:06,73,77,0,5,14,0,0,-6,A Major,4,2024-02-10,5KE6acpiakjqiIskbWVfxB,11B,USAT21800760
